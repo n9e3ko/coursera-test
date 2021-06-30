@@ -1,2 +1,2 @@
-# coursera-test
+# home_page
 Coursera test repository 
