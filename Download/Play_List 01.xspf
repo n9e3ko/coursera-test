@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Список відтворення</title>
+	<trackList>
+		<track>
+			<location>https://air.radiorecord.ru:805/chillhouse_320</location>
+			<title>Chill_House</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://air.radiorecord.ru:805/rr_320</location>
+			<title>Radio_Record</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://live.antenne.at/arr</location>
+			<title>Austrian Rock Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://online.radioroks.ua/RadioROKS</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://coderadio-admin.freecodecamp.org/radio/8010/radio.mp3?1586336506</location>
+			<title>Code Radio_freeCodeCamp</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://air2.radiorecord.ru:9003/drumhits_320</location>
+			<title>Record Drum Hits</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://waw01-03.ic.smcdn.pl/t042-1.aac</location>
+			<title>ESKA_WARSZAWA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://91.200.114.254:8128/;</location>
+			<title>tvoeradio 101.4 fm</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://21283.live.streamtheworld.com/OWR_INTERNATIONAL.mp3</location>
+			<title>tomorrowland</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://85.25.43.55/hell.aac</location>
+			<title>starfm</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://uk1.internet-radio.com/proxy/bloodstream?mp=/live</location>
+			<title>Bloodstream</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://23203.live.streamtheworld.com/SMOOTHCHILL_AAC48.aac?dist=neweb&amp;tdsdk=js-2.9&amp;pname=TDSdk&amp;pversion=2.9&amp;banners=none&amp;sbmid=e446ef57-4dc7-45e5-fa48-81f7caa85740</location>
+			<title>smooth Chill</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://air2.radiorecord.ru:9003/househits_320</location>
+			<title>House Hits</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://air2.radiorecord.ru:9003/jackin_320</location>
+			<title>Bass House</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://air.radiorecord.ru:805/lofi_128</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+	</extension>
+</playlist>
