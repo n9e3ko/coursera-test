@@ -1,0 +1,68 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+    background: rgb(14, 14, 14);
+
+    color: aliceblue;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    color: aliceblue;
+}
+
+a {
+    color: aliceblue;
+
+}
+
+main {
+    width: 100%;
+    max-width: 1024px;
+    height: auto;
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.block_list {
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+    max-width: 500px;
+    width: 100%;
+
+    height: auto;
+}
+
+.list {}
+
+.list a {
+
+    min-width: 100px;
+    height: auto;
+
+    border: rgb(117, 117, 117) 1px solid;
+
+    padding: 4px;
+
+    color: rgb(151, 151, 151);
+
+
+}
+
+a:hover {
+    color: rgb(255, 255, 255);
+    border: rgb(248, 0, 0) 1px solid;
+
+    padding: 6px;
+
+}
